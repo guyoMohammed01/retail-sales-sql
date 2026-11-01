@@ -1,6 +1,5 @@
 # Retail Sales & Customer Intelligence Using PostgreSQL
 
-Week 10 project, Cohort 9 (Data Science)
 
 ## About the project
 
